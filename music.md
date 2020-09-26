@@ -10,22 +10,28 @@ image: assets/images/MusicPhoto1.jpg
   		<header class="major">
   			<h1>My Music</h1>
   		</header>
-      This will be where all my music stuff goes
+      <!-- This will be where all my music stuff goes -->
       <!-- Section 1 - tabs -->
-      <section id="GuitarTabs">
+      <!-- <section id="GuitarTabs">
         <h1>Guitar tabs</h1>
         <p>Here is my most recent guitar tab</p>
-      </section>
+      </section> -->
       <!-- Section 2 - audio/videos -->
       <section id="Videos_Music" class="videos">
-        <h1>Videos and tracks</h1>
+        <h1>Recordings</h1>
         <p>Here is my latest song</p>
+        <p>A couple of years ago I made an instumental cover of twenty one pilot's song Car Radio. All tracks apart from the bass guitar are MIDI instruments from within GarageBand</p>
+        <audio controls src="assets/audio/Car_Radio_-_twenty_one_pilots_cover.mp3" type="audio/mpeg">
+          <!-- <source src="assets/audio/Car_Radio_-_twenty_one_pilots_cover.mp3" type="audio/mpeg"> -->
+          Your browser does not support the audio element
+
+        </audio>
       </section>
       <!-- Section 3 - reviews -->
-      <section id="Reviews_Music" class="reviews">
+      <!-- <section id="Reviews_Music" class="reviews">
         <h1>Music Reviews</h1>
         <p>Here is my latest music review</p>
-      </section>
+      </section> -->
     </div>
   </section>
 </div>

@@ -12,10 +12,23 @@ image: assets/images/MusicPhoto1.jpg
   		</header>
       <!-- This will be where all my music stuff goes -->
       <!-- Section 1 - tabs -->
-      <!-- <section id="GuitarTabs">
+      <section id="GuitarTabs">
         <h1>Guitar tabs</h1>
         <p>Here is my most recent guitar tab</p>
-      </section> -->
+        <a href="assets/GuitarTabs/BoulevardofBrokenDreamsMetal.gpx">A metal version of Boulevard of Broken Dreams by Green Day, this is a .GPX file</a>
+        <br>
+        <audio controls>
+          <source src="assets/GuitarTabs/BoulevardofBrokenDreamsMetal.mp3" type="audio/mpeg">
+          Your browser does not support the audio element
+        </audio>
+        <p>Here is another guitar tab I have made</p>
+        <a href="assets/GuitarTabs/WhateverItTakes.gpx">A metal version of Whatever It Takes by Imagine Dragons, this is a .GPX file</a>
+        <br>
+        <audio controls>
+          <source src="assets/GuitarTabs/WhateverItTakes.mp3" type="audio/mpeg">
+          Your browser does not support the audio element
+        </audio>
+      </section>
       <!-- Section 2 - audio/videos -->
       <section id="Videos_Music" class="videos">
         <h1>Recordings</h1>

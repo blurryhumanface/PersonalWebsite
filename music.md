@@ -10,7 +10,7 @@ image: assets/images/MusicPhoto1.jpg
   		<header class="major">
   			<h1>My Music</h1>
   		</header>
-      <!-- This will be where all my music stuff goes -->
+      <!-- This will be where all my music stuff goes  -->
       <!-- Section 1 - tabs -->
       <section id="GuitarTabs">
         <h1>Guitar tabs</h1>

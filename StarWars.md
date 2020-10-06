@@ -2,7 +2,7 @@
 layout: page
 title: Star Wars
 nav-menu: true
-image: assets/images/SWGoHScreenshot.png
+image: assets/images/SWGohScreenshot.png
 ---
 <div id="main" class="alt">
   <section id="one">
